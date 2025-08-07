@@ -7,13 +7,13 @@
 
 # Choose the theme to use when building your site. This variable should specify
 # the name of a theme directory in your site's 'lib' folder.
-theme = "graphite"
+theme = "outline"
 
 # Site title.
-title = "Stephen Hall"
+title = "ʕ•͡-•ʔ hlls.im"
 
 # Site tagline.
-tagline = "So many ideas to build,<br>so little time to build them."
+tagline = "hi<br>bye"
 
 profileimg = "/img/sand.jpg"
 
