@@ -2,6 +2,6 @@
 title: Contact
 ---
 
-[@](instagram)
+[s@hlls.im](s@hlls.im)
 [Github](https://github.com/StephenLangHall)
 
