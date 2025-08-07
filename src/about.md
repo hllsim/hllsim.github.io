@@ -2,6 +2,6 @@
 title: Contact
 ---
 
-[s@hlls.im](s@hlls.im)
-[Github](https://github.com/StephenLangHall)
+[s@hlls.im](mailto:s@hlls.im)  
+[Github](https://github.com/StephenLangHall)  
 
