@@ -10,10 +10,10 @@
 theme = "twentyfifteen"
 
 # Site title.
-title = "ʕ•͡-•ʔ hlls.im"
+title = "➜ hlls.im"
 
 # Site tagline.
-tagline = "hi<br>bye"
+#tagline = "hlls.im"
 
 profileimg = "/img/sand.jpg"
 
