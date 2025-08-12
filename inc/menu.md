@@ -1,5 +1,5 @@
 * [Home](@root/)
-* [Parent Page](@root/parent//)
+* [Parent Page](@root/Graphite//)
     * [Child One](@root/parent/child-one//)
     * [Child Two](@root/parent/child-two//)
 * [About](@root/about//)
