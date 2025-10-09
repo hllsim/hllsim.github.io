@@ -1,0 +1,105 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	margin: 0;
+	height: 100vh; /* Ensures the body takes full viewport height */
+	display: flex; /* Enables Flexbox for the body */
+	justify-content: center; /* Centers content horizontally */
+	align-items: center; /* Centers content vertically */
+	background-color: #282828; /* Just for visual clarity */
+}
+
+.center {
+	width: fit;
+	height: fit;
+	background-color: none;
+	color: white;
+	display: flex;
+	align-items: start;
+	font-family: "Jersey 10", sans-serif;
+	font-size: 1.2em;
+}
+
+.centertext {
+	text-align: center;
+}
+
+.left {
+	width: fit;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid, #b57614, 5px;
+	border-radius: 15px;
+	background-color: #fbf1c7;
+}
+
+.right {
+	width: fit;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.jersey-10-regular {
+	font-family: "Jersey 10", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+}
+
+img {
+	border-radius: 5px;
+	width: 200px;
+}
+
+h2, p, img, ul, li, a, span {
+	margin: 5px;
+	padding: 0px;
+	font-family: "Jersey 10", sans-serif;
+	color: #fbf1c7;
+	text-decoration: none;
+	font-weight: 700;
+}
+
+h2 {
+	color: #b57614;
+}
+
+ul {
+	list-style-type: none;
+}
+
+li::hover {
+	padding-left: 10px;
+	list-style-type: disc;
+}
+
+a:link {
+	margin: 0px;
+	color: #fbf1c7;
+	transition: 0.5s;
+	transition: color 0.3s ease-in-out, transform .3s ease-in-out;
+	display: inline-block;
+}
+
+a:link:hover {
+	color: #d79921;
+	transform: translate(10px,0px);
+}
+
+a:visited {
+	color: #928374;
+}
+
+a:visited:hover {
+	color: #af3a03;
+	transform: translate(10px,0px);
+}
+
+.email:link, .email:visited {
+	color: #3c3836;
+}
+
+.email:link:hover, .email:visited:hover {
+	color: #d79921;
+}
