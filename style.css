@@ -47,6 +47,16 @@ body {
 	font-style: normal;
 }
 
+.listlink:before {
+	content: ": ";
+	color: #00000000;
+	transition: color 0.3s ease-in-out;
+}
+.listlink:hover:before {
+	content: ": ";
+	color: #fbf1c7;
+}
+
 img {
 	border-radius: 5px;
 	width: 200px !important;
