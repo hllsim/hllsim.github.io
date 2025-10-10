@@ -49,7 +49,7 @@ body {
 
 img {
 	border-radius: 5px;
-	width: 200px;
+	width: 200px !important;
 }
 
 h2, p, img, ul, li, a, span {
